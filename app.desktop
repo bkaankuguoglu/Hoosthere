@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Hoosthere
+Comment=Who Is There?
+Icon=/home/pi/ELEC491/icon.png
+Exec=lxterminal -t "Hoosthere" --working-directory=/home/pi/ELEC491/ -e python App.py
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;

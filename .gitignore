@@ -1,0 +1,6 @@
+*.mp4
+*.avi
+/data/ex/*
+*.pyc
+backend/venv
+*~
